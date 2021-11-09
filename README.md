@@ -1,16 +1,18 @@
 ### Hi there 👋
+---
+My name is Presian Stefanov. I am a student at VSCPI Burgas.
 
-<!--
-**PSStefanov19/PSStefanov19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows%2FLinux-green)<br>
+Main:<br>
+![](https://img.shields.io/badge/Language-JavaScript-green)
+![](https://img.shields.io/badge/Language-C++-green)<br>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSStefanov19&theme=radical)](https://github.com/PSStefanov19)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+[![Presian's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSStefanov19&show_icons=true&theme=radical)](https://github.com/PSStefanov19)<br>
+
+## Good repos to check out
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PSStefanov19&repo=dots&theme=radical)](https://github.com/PSStefanov19/dots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PSStefanov19&repo=CBBA-6890&theme=radical)](https://github.com/PSStefanov19/CBBA-6890)
