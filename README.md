@@ -15,5 +15,5 @@ Main:<br>
 [![Presian's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSStefanov19&show_icons=true&theme=radical)](https://github.com/PSStefanov19)<br>
 
 ## Good repos to check out
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PSStefanov19&repo=dots&theme=radical)](https://github.com/PSStefanov19/dots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IVBarzev19&repo=Aqua-Project&theme=radical)](https://github.com/IVBarzev19/Aqua-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PSStefanov19&repo=CBBA-6890&theme=radical)](https://github.com/PSStefanov19/CBBA-6890)
